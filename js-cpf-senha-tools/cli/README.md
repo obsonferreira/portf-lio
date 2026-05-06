@@ -34,7 +34,9 @@ Comecei a estudar de forma autodidata JS e na curiosidade fui pesquisar como a R
 ## Print
 
 [./demo-cpfTools-cli.png]
+
 [./demo-cpfTools1-cli.png]
+
 [./demo-senhaUtils-cli.png]
 
 ## O que aprendi fazendo
