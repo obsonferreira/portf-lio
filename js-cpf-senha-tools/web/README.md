@@ -42,7 +42,9 @@ Não precisa de Node, não precisa de servidor. É HTML + JS puro rodando direto
 
 ## Print
 
-<img src="link_do_gif" width="500" alt= "Teste cpfTools.js e senhaUtils.js versão web">
+<img src="https://github.com/obsonferreira/portfolio/blob/main/js-cpf-senha-tools/web/demo-web.gif" width="500" alt= "Teste cpfTools.js e senhaUtils.js versão web">
+
+
 
 ## O que aprendi fazendo
 
