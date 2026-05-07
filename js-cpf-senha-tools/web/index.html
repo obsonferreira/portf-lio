@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Projeto gera senha ou cpf </title>
+</head>
+
+<body>
+
+    <div class="quadrado-senha-aleatorio">
+        <label for="tamanho-senha">Quantidade de digitos:</label>
+        <input type="text" id="tamanho-senha" name="senha" placeholder="Minímo 4 digitos">
+        <p>SENHA gerado: <span id="senhaAleatorio"></span>
+        </p>
+        <button id="botao-senha">Gerar Senha</button>
+    </div> <br> <hr> <br>
+
+    <div class="quadrado-cpf-aleatorio">
+        <div id="divCpfAleatorio">Gerar CPF Aleatório</div>
+        <p>CPF gerado: <span id="cpfAleatorio"></span></p>
+        <div><button id="gerar-cpf">Gerar CPF</button></div>
+    </div> <br>
+
+    <div class="quadrado-verifica-cpf">
+        <label for="cpf-verificado">digito o CPF:</label>
+        <input type="text" id="input-cpf" name="cpf-verificado" placeholder="Digite O CPF para verificar">
+        <p>CPF: <span id="cpf-verificado"></span></p>
+        <button id="verificar-cpf">Verificar CPF</button>
+    </div>
+
+    <script src="./cpfTools.js"></script>
+    <script src="./senhaUtils.js"></script>
+
+</body>
+
+</html>
