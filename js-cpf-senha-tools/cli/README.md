@@ -8,6 +8,7 @@ Comecei a estudar de forma autodidata JS e na curiosidade fui pesquisar como a R
 
 ## Como rodar
 
+
 1. Instalar o Node.js (se não tiver).
 2. `cd cli` (para navegar até a pasta do projeto).
 3. `npm install readline-sync ` (instale a biblioteca para conseguir usar o teclado para digitar no terminal).
@@ -32,12 +33,14 @@ Comecei a estudar de forma autodidata JS e na curiosidade fui pesquisar como a R
 - Tamanho minímo: `4 digitos`
 
 ## Print
+`Teste cpfTools.js` <br>
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cpfTools1-cli.png" largura="500" title= "Teste cpfTools.js">
 
-[./demo-cpfTools-cli.png]
+<br>`Teste cpfTools.js` <br>
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cli1.png" largura="500" title= "Teste cpfTools.js">
 
-[./demo-cpfTools1-cli.png]
-
-[./demo-senhaUtils-cli.png]
+<br>`Teste senhaUtils.js` <br>
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-senhaUtils-cli.png" largura="500" title= "Teste senhaUtils.js">
 
 ## O que aprendi fazendo
 
