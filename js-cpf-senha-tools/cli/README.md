@@ -19,14 +19,14 @@ Comecei a estudar de forma autodidata JS e na curiosidade fui pesquisar como a R
 
 ## O que faz o meu projeto
 
-** Módulo CPF - `cpfTools.js` **
+**Módulo CPF - `cpfTools.js`**
 
 - Gera CPF válido aleatório (`Lembrando que válido não significa que ele faz parte do banco de dados da receita ou pertence a uma pessoa`).
 - Valida CPF digitado: formatos aceitos `123.456.789-09 `, `12345678909`.
 - Bloqueia CPF com dígitos repetidos, ex.:(`111.111.111-11`).
 - Valida tamanho: avisa se digitou menos de 11 números (`Lembrando que letras não contabilizados como digitos válidos`).
 
-** Módulo Senha - `senhaUtils.js` **
+**Módulo Senha - `senhaUtils.js`**
 
 - Pede quantidade de dígitos e gera uma senha forte.
 - Garante `uma letra maiúscula, uma letra minúscula, um número e um caracter especial`.
