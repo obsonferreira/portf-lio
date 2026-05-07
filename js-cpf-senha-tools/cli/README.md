@@ -34,13 +34,13 @@ Comecei a estudar de forma autodidata JS e na curiosidade fui pesquisar como a R
 
 ## Print
 `Teste cpfTools.js` <br>
-<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cpfTools1-cli.png" largura="500" title= "Teste cpfTools.js">
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cpfTools1-cli.png" width="500" alt= "Teste cpfTools.js">
 
 <br>`Teste cpfTools.js` <br>
-<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cli1.png" largura="500" title= "Teste cpfTools.js">
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-cli1.png" width="500" alt= "Teste cpfTools.js">
 
 <br>`Teste senhaUtils.js` <br>
-<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-senhaUtils-cli.png" largura="500" title= "Teste senhaUtils.js">
+<img src="https://github.com/obsonferreira/portf-lio/blob/main/js-cpf-senha-tools/cli/demo-senhaUtils-cli.png" width="500" alt= "Teste senhaUtils.js">
 
 ## O que aprendi fazendo
 
