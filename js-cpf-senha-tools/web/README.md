@@ -12,7 +12,7 @@ No output troquei `console.log` por `innerHTML`.
 ## Como rodar
 
 ### Opção 1: Testar online - mais rápido
-1. Acesse: [COLA O LINK DO GITHUB PAGES AQUI]
+1. Acesse: (https://obsonferreira.github.io/portfolio/)
 2. Pronto. Não precisa instalar nada
 
 ### Opção 2: Rodar local no seu PC
